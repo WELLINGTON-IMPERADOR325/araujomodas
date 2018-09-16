@@ -1,5 +1,5 @@
 <?php 
-$suaaltura = 1.65 ;
+$suaaltura = 2,10;
 
 $jgbasket = 2.10 ;
 $jgvolei  = 1.90 ;
@@ -22,6 +22,5 @@ else if ($suaaltura > $jgfutebol){
 else {
 	echo "você náo é um esportista !!!";
 	echo "<br>";
-	
-?>
+	?>
 
