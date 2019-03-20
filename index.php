@@ -1,8 +1,8 @@
 <?php 
-$suaaltura = 2,10;
+$suaaltura = 2,15;//aumentei altura pra 2,15
 
-$jgbasket = 2.10 ;
-$jgvolei  = 1.90 ;
+$jgbasket >= 2.10 ;
+$jgvolei  = 2.00 ;
 $jgfutebol = 1.60;
 
 if ($suaaltura > $jgbasket){
